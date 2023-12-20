@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+
+*{
+	background-color:aliceblue; 
+	margin:10px;
+	padding:0px;
+	
+}
+img{
+	width:200px;
+	height:200px;
+	border-color:hotpink;
+	border-style:double;
+	border-radius:40%
+}
+h1{
+	font-family:Poppins;
+	font-style:italic;
+	color:deeppink;
+	text-shadow:0px 0px 30px hotpink;
+	text-decoration:underline;
+}
